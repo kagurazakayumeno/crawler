@@ -128,12 +128,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Test files
-test*.py
-
-# Special file type
-*.jpg
-*.png
-*.html
-*.txt
-*.csv
